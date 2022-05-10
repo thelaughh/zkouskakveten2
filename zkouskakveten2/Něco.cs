@@ -18,7 +18,7 @@ namespace zkouskakveten2
         }
         public void info()
         {
-            Console.WriteLine()
-        }
+            Console.WriteLine($"{jídlo}, {zvíře}, {Uživatel}");
+;        }
     }
 }
